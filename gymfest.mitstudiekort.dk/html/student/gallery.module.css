@@ -1,0 +1,45 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.gallery {
+  background: #EEE;
+}
+
+
+/* cell number */
+.gallery-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+}
+
+@media (min-width:769px) {
+  .gallery-cell {
+    width: 25%;
+    height: 75vh;
+    margin-right: 10px;
+    /* counter-increment: gallery-cell; */
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery-cell {
+    width: 66%;
+    height: 75vh;
+    margin-right: 10px;
+    /* counter-increment: gallery-cell; */
+  }
+}
+
+.divider {
+  height: 1px;
+  background-color: #8e8e8e;
+  margin: 5px 0px -5px 0px;
+}
+
+ol:not(.accordion):not(.tabnav):not(.accordion-bordered):not(.sidenav-list) {
+  max-width: none;
+}

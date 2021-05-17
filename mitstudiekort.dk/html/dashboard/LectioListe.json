@@ -1,0 +1,1112 @@
+{
+	"Gymnasier": [
+	    {
+			"id": 853,
+			"navn": "10 KCD"
+		},
+		{
+			"id": 51,
+			"navn": "Allerød Gymnasium"
+		},
+		{
+			"id": 768,
+			"navn": "Allikelund Gymnasium"
+		},
+		{
+			"id": 161,
+			"navn": "Alssundgymnasiet Sønderborg"
+		},
+		{
+			"id": 578,
+			"navn": "AMU Hoverdal"
+		},
+		{
+			"id": 550,
+			"navn": "AU - Institut for odontologi og oral sundhed"
+		},
+		{
+			"id": 1,
+			"navn": "Aurehøj Gymnasium"
+		},
+		{
+			"id": 3,
+			"navn": "Bagsværd Kostskole og Gymnasium"
+		},
+		{
+			"id": 52,
+			"navn": "Birkerød Gymnasium og HF"
+		},
+		{
+			"id": 266,
+			"navn": "Bjerringbro Gymnasium"
+		},
+		{
+			"id": 37,
+			"navn": "Borupgaard Gymnasium"
+		},
+		{
+			"id": 38,
+			"navn": "Brøndby Gymnasium"
+		},
+		{
+			"id": 281,
+			"navn": "Brønderslev Gymnasium og HF"
+		},
+		{
+			"id": 132,
+			"navn": "Campus Bornholm EUD"
+		},
+		{
+			"id": 137,
+			"navn": "Campus Bornholm GYM"
+		},
+		{
+			"id": 139,
+			"navn": "Campus Bornholm Sprogcenter"
+		},
+		{
+			"id": 364,
+			"navn": "Campus Kujalleq"
+		},
+		{
+			"id": 5,
+			"navn": "Christianshavns Gymnasium"
+		},
+		{
+			"id": 40,
+			"navn": "Det frie Gymnasium"
+		},
+		{
+			"id": 228,
+			"navn": "Det Kristne Gymnasium"
+		},
+		{
+			"id": 765,
+			"navn": "Det Naturvidenskabelige Gymnasium på HRS Valby "
+		},
+		{
+			"id": 292,
+			"navn": "Dronninglund Gymnasium"
+		},
+		{
+			"id": 788,
+			"navn": "DTU"
+		},
+		{
+			"id": 545,
+			"navn": "Edutasia"
+		},
+		{
+			"id": 62,
+			"navn": "Egedal Gymnasium & HF"
+		},
+		{
+			"id": 256,
+			"navn": "Egaa Gymnasium"
+		},
+		{
+			"id": 529,
+			"navn": "Erhvervsskolerne Aars hhx og htx"
+		},
+		{
+			"id": 534,
+			"navn": "Erhvervsskolerne Aars KHF"
+		},
+		{
+			"id": 181,
+			"navn": "Esbjerg Gymnasium"
+		},
+		{
+			"id": 57,
+			"navn": "Espergærde Gymnasium og HF"
+		},
+		{
+			"id": 321,
+			"navn": "EUC Nord - AMU - Frederikshavn"
+		},
+		{
+			"id": 322,
+			"navn": "EUC Nord - EAU - Hjørring"
+		},
+		{
+			"id": 323,
+			"navn": "EUC Nord - EUD - Frederikshavn"
+		},
+		{
+			"id": 318,
+			"navn": "EUC Nord - HES - Hestkærvej"
+		},
+		{
+			"id": 319,
+			"navn": "EUC Nord - HTX"
+		},
+		{
+			"id": 769,
+			"navn": "EUC Nordvestsjælland"
+		},
+		{
+			"id": 770,
+			"navn": "EUC Online"
+		},
+		{
+			"id": 677,
+			"navn": "EUC Sjælland - HTX Køge"
+		},
+		{
+			"id": 678,
+			"navn": "EUC Sjælland - HTX Næstved"
+		},
+		{
+			"id": 548,
+			"navn": "European School Copenhagen Upper Secondary"
+		},
+		{
+			"id": 7,
+			"navn": "Falkonergårdens Gymnasium og HF"
+		},
+		{
+			"id": 291,
+			"navn": "Fjerritslev Gymnasium"
+		},
+		{
+			"id": 568,
+			"navn": "Folkekirkens Uddannelses- og Videnscenter"
+		},
+		{
+			"id": 201,
+			"navn": "Fredericia Gymnasium"
+		},
+		{
+			"id": 8,
+			"navn": "Frederiksberg Gymnasium"
+		},
+		{
+			"id": 351,
+			"navn": "Frederiksberg HF-kursus"
+		},
+		{
+			"id": 54,
+			"navn": "Frederiksborg Gymnasium og hf"
+		},
+		{
+			"id": 282,
+			"navn": "Frederikshavn Gymnasium"
+		},
+		{
+			"id": 917,
+			"navn": "Frederikshavn Handelsskole"
+		},
+		{
+			"id": 55,
+			"navn": "Frederikssund Gymnasium"
+		},
+		{
+			"id": 60,
+			"navn": "Frederiksværk Gymnasium og HF"
+		},
+		{
+			"id": 528,
+			"navn": "Friskolen på Røsnæs"
+		},
+		{
+			"id": 150,
+			"navn": "Faaborg Gymnasium"
+		},
+		{
+			"id": 9,
+			"navn": "Gammel Hellerup Gymnasium"
+		},
+		{
+			"id": 17,
+			"navn": "Gefion Gymnasium"
+		},
+		{
+			"id": 365,
+			"navn": "Gentofte HF"
+		},
+		{
+			"id": 304,
+			"navn": "Gentofte Studenterkursus"
+		},
+		{
+			"id": 11,
+			"navn": "Gladsaxe Gymnasium"
+		},
+		{
+			"id": 241,
+			"navn": "Grenaa Gymnasium"
+		},
+		{
+			"id": 71,
+			"navn": "Greve Gymnasium"
+		},
+		{
+			"id": 61,
+			"navn": "Gribskov Gymnasium"
+		},
+		{
+			"id": 539,
+			"navn": "GUX - Sisimiut"
+		},
+		{
+			"id": 354,
+			"navn": "GUX Nuuk"
+		},
+		{
+			"id": 362,
+			"navn": "GU-Aasiaat"
+		},
+		{
+			"id": 680,
+			"navn": "H.C. Ørsted Gymnasiet - Ballerup"
+		},
+		{
+			"id": 679,
+			"navn": "H.C. Ørsted Gymnasiet - Frederiksberg"
+		},
+		{
+			"id": 681,
+			"navn": "H.C. Ørsted Gymnasiet - Lyngby"
+		},
+		{
+			"id": 163,
+			"navn": "Haderslev Katedralskole"
+		},
+		{
+			"id": 511,
+			"navn": "Handelsgymnasiet Vestfyn"
+		},
+		{
+			"id": 283,
+			"navn": "Hasseris Gymnasium"
+		},
+		{
+			"id": 53,
+			"navn": "Helsingør Gymnasium"
+		},
+		{
+			"id": 12,
+			"navn": "Herlev Gymnasium og HF"
+		},
+		{
+			"id": 111,
+			"navn": "Herlufsholm Skole"
+		},
+		{
+			"id": 221,
+			"navn": "Herning Gymnasium"
+		},
+		{
+			"id": 355,
+			"navn": "Herning HF og VUC"
+		},
+		{
+			"id": 454,
+			"navn": "HF & VUC København Syd Amager afd."
+		},
+		{
+			"id": 455,
+			"navn": "HF & VUC København Syd Hvidovre afd."
+		},
+		{
+			"id": 532,
+			"navn": "HF & VUC Nordsjælland Helsingør"
+		},
+		{
+			"id": 533,
+			"navn": "HF & VUC Nordsjælland Hillerød"
+		},
+		{
+			"id": 6,
+			"navn": "HF-Centret Efterslægten"
+		},
+		{
+			"id": 75,
+			"navn": "Himmelev Gymnasium"
+		},
+		{
+			"id": 82,
+			"navn": "Hindholm STX"
+		},
+		{
+			"id": 284,
+			"navn": "Hjørring Gymnasium / STX og HF"
+		},
+		{
+			"id": 222,
+			"navn": "Holstebro Gymnasium og HF"
+		},
+		{
+			"id": 209,
+			"navn": "Horsens Gymnasium & HF – Højen"
+		},
+		{
+			"id": 202,
+			"navn": "Horsens Gymnasium & HF – Studentervænget"
+		},
+		{
+			"id": 280,
+			"navn": "Hovedstadens Kristne Gymnasium"
+		},
+		{
+			"id": 523,
+			"navn": "HTX Roskilde"
+		},
+		{
+			"id": 2,
+			"navn": "Hvidovre Gymnasium og HF"
+		},
+		{
+			"id": 345,
+			"navn": "Høje Taastrup Private Gymnasium"
+		},
+		{
+			"id": 36,
+			"navn": "Høje-Taastrup Gymnasium"
+		},
+		{
+			"id": 97,
+			"navn": "Høng Gymnasium og HF"
+		},
+		{
+			"id": 942,
+			"navn": "IBC Fredericia Middelfart"
+		},
+		{
+			"id": 944,
+			"navn": "IBC HF og VUC Fredericia"
+		},
+		{
+			"id": 945,
+			"navn": "IBC Innovationsfabrikken"
+		},
+		{
+			"id": 943,
+			"navn": "IBC Kolding"
+		},
+		{
+			"id": 941,
+			"navn": "IBC Aabenraa"
+		},
+		{
+			"id": 223,
+			"navn": "Ikast-Brande Gymnasium"
+		},
+		{
+			"id": 690,
+			"navn": "Ilisimatusarfik - Grønlands universitet"
+		},
+		{
+			"id": 516,
+			"navn": "Imarsiornermik Ilinniarfik Nuuk"
+		},
+		{
+			"id": 573,
+			"navn": "Imarsiornermik Ilinniarfik Paamiut"
+		},
+		{
+			"id": 13,
+			"navn": "Ingrid Jespersens Gymnasieskole"
+		},
+		{
+			"id": 521,
+			"navn": "INUILI"
+		},
+		{
+			"id": 16,
+			"navn": "Johannesskolens Gymnasium"
+		},
+		{
+			"id": 92,
+			"navn": "Kalundborg Gymnasium og HF"
+		},
+		{
+			"id": 203,
+			"navn": "Kolding Gymnasium"
+		},
+		{
+			"id": 798,
+			"navn": "Kosmetologskolen"
+		},
+		{
+			"id": 88,
+			"navn": "Kriminalforsorgen UCB"
+		},
+		{
+			"id": 356,
+			"navn": "KU - Datalogisk Institut"
+		},
+		{
+			"id": 403,
+			"navn": "Københavns Idrætsefterskole"
+		},
+		{
+			"id": 484,
+			"navn": "Københavns Private Gymnasium"
+		},
+		{
+			"id": 530,
+			"navn": "Københavns VUC"
+		},
+		{
+			"id": 32,
+			"navn": "Københavns åbne Gymnasium"
+		},
+		{
+			"id": 72,
+			"navn": "Køge Gymnasium"
+		},
+		{
+			"id": 138,
+			"navn": "Køge Handelsskole - EUD/EUX/AMU/HF/SKP"
+		},
+		{
+			"id": 131,
+			"navn": "Køge Handelsskole - HHX"
+		},
+		{
+			"id": 932,
+			"navn": "Køge Private Realskole"
+		},
+		{
+			"id": 306,
+			"navn": "Learnmark Horsens Handelsgymnasium HHX"
+		},
+		{
+			"id": 305,
+			"navn": "Learnmark Horsens Teknisk Gymnasium HTX"
+		},
+		{
+			"id": 526,
+			"navn": "Læreruddannelsen i Silkeborg"
+		},
+		{
+			"id": 877,
+			"navn": "Læreruddannelsen i Skive"
+		},
+		{
+			"id": 285,
+			"navn": "Mariagerfjord Gymnasium"
+		},
+		{
+			"id": 112,
+			"navn": "Maribo Gymnasium"
+		},
+		{
+			"id": 58,
+			"navn": "Marie Kruses Skole"
+		},
+		{
+			"id": 243,
+			"navn": "Marselisborg Gymnasium"
+		},
+		{
+			"id": 576,
+			"navn": "Mercantec Bygge- og anlæg EUD/AMU"
+		},
+		{
+			"id": 577,
+			"navn": "Mercantec Midtbyens Gymnasium"
+		},
+		{
+			"id": 575,
+			"navn": "Mercantec teknisk og merkantil EUD/AMU"
+		},
+		{
+			"id": 270,
+			"navn": "Michael Skolen"
+		},
+		{
+			"id": 141,
+			"navn": "Middelfart Gymnasium"
+		},
+		{
+			"id": 955,
+			"navn": "Midtfyns Gymnasium"
+		},
+		{
+			"id": 544,
+			"navn": "Midtjysk Erhvervskøreskole og Uddannelsescenter"
+		},
+		{
+			"id": 91,
+			"navn": "Midtsjællands Gymnasium"
+		},
+		{
+			"id": 261,
+			"navn": "Morsø Gymnasium"
+		},
+		{
+			"id": 143,
+			"navn": "Mulernes Legatskole"
+		},
+		{
+			"id": 207,
+			"navn": "Munkensdam Gymnasium"
+		},
+		{
+			"id": 19,
+			"navn": "N. Zahles Gymnasieskole"
+		},
+		{
+			"id": 402,
+			"navn": "Nakskov Gymnasium og HF"
+		},
+		{
+			"id": 48,
+			"navn": "NEXT - Baltorp Gymnasium"
+		},
+		{
+			"id": 517,
+			"navn": "NEXT - EUX"
+		},
+		{
+			"id": 520,
+			"navn": "NEXT - Københavns Mediegymnasium"
+		},
+		{
+			"id": 518,
+			"navn": "NEXT - Sukkertoppen Gymnasium"
+		},
+		{
+			"id": 44,
+			"navn": "NEXT - Sydkysten Gymnasium"
+		},
+		{
+			"id": 43,
+			"navn": "NEXT - Vestskoven Gymnasium"
+		},
+		{
+			"id": 519,
+			"navn": "NEXT - Vibenshus Gymnasium"
+		},
+		{
+			"id": 20,
+			"navn": "Niels Steensens Gymnasium"
+		},
+		{
+			"id": 988,
+			"navn": "Niuernermik Ilinniarfik Nuuk"
+		},
+		{
+			"id": 513,
+			"navn": "Nordfyns Gymnasium"
+		},
+		{
+			"id": 63,
+			"navn": "Nordsjællands Grundskole og Gymnasium"
+		},
+		{
+			"id": 144,
+			"navn": "Nyborg Gymnasium"
+		},
+		{
+			"id": 114,
+			"navn": "Nykøbing Katedralskole"
+		},
+		{
+			"id": 31,
+			"navn": "Nærum Gymnasium"
+		},
+		{
+			"id": 115,
+			"navn": "Næstved Gymnasium og HF"
+		},
+		{
+			"id": 21,
+			"navn": "Nørre Gymnasium"
+		},
+		{
+			"id": 645,
+			"navn": "Nørrebro Gymnasium"
+		},
+		{
+			"id": 287,
+			"navn": "Nørresundby Gymnasium og HF"
+		},
+		{
+			"id": 254,
+			"navn": "Odder Gymnasium"
+		},
+		{
+			"id": 600,
+			"navn": "Odense Katedralskole"
+		},
+		{
+			"id": 857,
+			"navn": "Odense Tekniske Gymnasium"
+		},
+		{
+			"id": 96,
+			"navn": "Odsherreds Gymnasium"
+		},
+		{
+			"id": 22,
+			"navn": "Ordrup Gymnasium"
+		},
+		{
+			"id": 152,
+			"navn": "Oure Kostgymnasium"
+		},
+		{
+			"id": 253,
+			"navn": "Paderup Gymnasium"
+		},
+		{
+			"id": 135,
+			"navn": "Paul Petersens Idrætsinstitut"
+		},
+		{
+			"id": 353,
+			"navn": "Peqqissaanermik Ilinniarfik Nuuk"
+		},
+		{
+			"id": 515,
+			"navn": "Perorsaanermik Ilinniarfik SPS"
+		},
+		{
+			"id": 547,
+			"navn": "Pharmakon"
+		},
+		{
+			"id": 245,
+			"navn": "Randers Statsskole"
+		},
+		{
+			"id": 184,
+			"navn": "Ribe Katedralskole"
+		},
+		{
+			"id": 246,
+			"navn": "Risskov Gymnasium"
+		},
+		{
+			"id": 204,
+			"navn": "Rosborg Gymnasium og hf"
+		},
+		{
+			"id": 73,
+			"navn": "Roskilde Gymnasium"
+		},
+		{
+			"id": 76,
+			"navn": "Roskilde Katedralskole"
+		},
+		{
+			"id": 522,
+			"navn": "Roskilde Tekniske Skole - EUD"
+		},
+		{
+			"id": 658,
+			"navn": "Rudolf Steiner Skolen Kvistgård"
+		},
+		{
+			"id": 59,
+			"navn": "Rungsted Gymnasium"
+		},
+		{
+			"id": 182,
+			"navn": "Rybners Gymnasium"
+		},
+		{
+			"id": 23,
+			"navn": "Rysensteen Gymnasium"
+		},
+		{
+			"id": 205,
+			"navn": "Rødkilde Gymnasium"
+		},
+		{
+			"id": 24,
+			"navn": "Rødovre Gymnasium"
+		},
+		{
+			"id": 247,
+			"navn": "Rønde Gymnasium"
+		},
+		{
+			"id": 25,
+			"navn": "Sankt Annæ Gymnasium"
+		},
+		{
+			"id": 489,
+			"navn": "Sankt Petri Gymnasium"
+		},
+		{
+			"id": 542,
+			"navn": "Scania Danmark"
+		},
+		{
+			"id": 590,
+			"navn": "Sct. Knuds Gymnasium"
+		},
+		{
+			"id": 500,
+			"navn": "SDU Teoretisk Pædagogikum"
+		},
+		{
+			"id": 248,
+			"navn": "Silkeborg Gymnasium"
+		},
+		{
+			"id": 249,
+			"navn": "Skanderborg Gymnasium"
+		},
+		{
+			"id": 558,
+			"navn": "Skanderborg-Odder Center for Uddannelse EUD/EUX"
+		},
+		{
+			"id": 560,
+			"navn": "Skanderborg-Odder Center for Uddannelse HF & VUC"
+		},
+		{
+			"id": 563,
+			"navn": "Skanderborg-Odder Center for Uddannelse HHX"
+		},
+		{
+			"id": 569,
+			"navn": "Skanderborg-Odder Center for Uddannelse HTX SOCU"
+		},
+		{
+			"id": 562,
+			"navn": "Skive College"
+		},
+		{
+			"id": 262,
+			"navn": "Skive Gymnasium"
+		},
+		{
+			"id": 153,
+			"navn": "Skolerne i Oure Sport & Performance"
+		},
+		{
+			"id": 93,
+			"navn": "Slagelse Gymnasium"
+		},
+		{
+			"id": 557,
+			"navn": "Slotshaven Gymnasium"
+		},
+		{
+			"id": 74,
+			"navn": "Solrød Gymnasium"
+		},
+		{
+			"id": 94,
+			"navn": "Sorø Akademis Skole"
+		},
+		{
+			"id": 549,
+			"navn": "SOSU skolen på Færøerne"
+		},
+		{
+			"id": 95,
+			"navn": "Stenhus Gymnasium"
+		},
+		{
+			"id": 224,
+			"navn": "Struer Statsgymnasium"
+		},
+		{
+			"id": 307,
+			"navn": "Studenterkurset i Sønderjylland"
+		},
+		{
+			"id": 286,
+			"navn": "Støvring Gymnasium"
+		},
+		{
+			"id": 477,
+			"navn": "Svendborg Gymnasium"
+		},
+		{
+			"id": 164,
+			"navn": "Sønderborg Statsskole"
+		},
+		{
+			"id": 531,
+			"navn": "Søværnets Officersskole"
+		},
+		{
+			"id": 865,
+			"navn": "Teknikimik Ilinniarfik"
+		},
+		{
+			"id": 427,
+			"navn": "Teknisk Gymnasium Sønderjylland"
+		},
+		{
+			"id": 360,
+			"navn": "Th. Langs HF & VUC"
+		},
+		{
+			"id": 263,
+			"navn": "Thisted Gymnasium STX og HF"
+		},
+		{
+			"id": 700,
+			"navn": "Thy - Mors HF & VUC"
+		},
+		{
+			"id": 567,
+			"navn": "Tradium Mariagerfjord"
+		},
+		{
+			"id": 571,
+			"navn": "Tradium Rådmands Boulevard"
+		},
+		{
+			"id": 572,
+			"navn": "Tradium Vester Allé"
+		},
+		{
+			"id": 543,
+			"navn": "Trafikskolen"
+		},
+		{
+			"id": 208,
+			"navn": "Tørring Gymnasium"
+		},
+		{
+			"id": 30,
+			"navn": "Tårnby Gymnasium"
+		},
+		{
+			"id": 508,
+			"navn": "UCH Handelsgymnasium"
+		},
+		{
+			"id": 509,
+			"navn": "UCH Teknisk Gymnasium"
+		},
+		{
+			"id": 782,
+			"navn": "UCVest"
+		},
+		{
+			"id": 238,
+			"navn": "UNORD Frederikssund"
+		},
+		{
+			"id": 237,
+			"navn": "UNORD Helsingør"
+		},
+		{
+			"id": 240,
+			"navn": "UNORD Hillerød Handelsgymnasium og Handelsskole"
+		},
+		{
+			"id": 236,
+			"navn": "UNORD Hillerød Teknisk Gymnasium"
+		},
+		{
+			"id": 235,
+			"navn": "UNORD Hillerød Tekniske Erhvervsuddannelser"
+		},
+		{
+			"id": 244,
+			"navn": "UNORD Kursuscenteret"
+		},
+		{
+			"id": 234,
+			"navn": "UNORD Lyngby"
+		},
+		{
+			"id": 239,
+			"navn": "UNORD Lyngby Erhvervsuddannelser"
+		},
+		{
+			"id": 185,
+			"navn": "Varde Gymnasium og HF-kursus"
+		},
+		{
+			"id": 902,
+			"navn": "Varde Handelsskole og Handelsgymnasium"
+		},
+		{
+			"id": 186,
+			"navn": "Vejen Gymnasium og HF"
+		},
+		{
+			"id": 565,
+			"navn": "Vejle Handelsskole"
+		},
+		{
+			"id": 206,
+			"navn": "Vejlefjordskolen"
+		},
+		{
+			"id": 420,
+			"navn": "Vestegnen HF & VUC"
+		},
+		{
+			"id": 421,
+			"navn": "Vestegnen HF & VUC Albertslund"
+		},
+		{
+			"id": 148,
+			"navn": "Vestfyns Gymnasium"
+		},
+		{
+			"id": 288,
+			"navn": "Vesthimmerlands Gymnasium og HF"
+		},
+		{
+			"id": 78,
+			"navn": "Vestjysk Gymnasium Tarm"
+		},
+		{
+			"id": 264,
+			"navn": "Viborg Gymnasium og HF"
+		},
+		{
+			"id": 555,
+			"navn": "Viborg Handelsgymnasium"
+		},
+		{
+			"id": 265,
+			"navn": "Viborg Katedralskole"
+		},
+		{
+			"id": 556,
+			"navn": "Viborg Tekniske Gymnasium"
+		},
+		{
+			"id": 250,
+			"navn": "Viby Gymnasium"
+		},
+		{
+			"id": 259,
+			"navn": "Vidar Skolen"
+		},
+		{
+			"id": 641,
+			"navn": "Viden Djurs - VID Gymnasier"
+		},
+		{
+			"id": 33,
+			"navn": "Virum Gymnasium"
+		},
+		{
+			"id": 116,
+			"navn": "Vordingborg Gymnasium & HF"
+		},
+		{
+			"id": 537,
+			"navn": "VUC Lyngby"
+		},
+		{
+			"id": 380,
+			"navn": "VUF - VoksenUddannelsescenter Frederiksberg"
+		},
+		{
+			"id": 158,
+			"navn": "ZBC Handels- og Teknisk gymnasium Ringsted"
+		},
+		{
+			"id": 165,
+			"navn": "ZBC Handels- og Teknisk gymnasium Slagelse"
+		},
+		{
+			"id": 160,
+			"navn": "ZBC Handels- og Teknisk gymnasium Vordingborg"
+		},
+		{
+			"id": 156,
+			"navn": "ZBC Handelsgymnasiet Næstved"
+		},
+		{
+			"id": 170,
+			"navn": "ZBC Holbæk EUD/AMU"
+		},
+		{
+			"id": 171,
+			"navn": "ZBC Køge EUD/AMU"
+		},
+		{
+			"id": 167,
+			"navn": "ZBC Næstved EUD/AMU"
+		},
+		{
+			"id": 159,
+			"navn": "ZBC Ringsted EUD/AMU"
+		},
+		{
+			"id": 169,
+			"navn": "ZBC Roskilde EUD/AMU"
+		},
+		{
+			"id": 168,
+			"navn": "ZBC Slagelse EUD/AMU"
+		},
+		{
+			"id": 155,
+			"navn": "ZBC Vordingborg EUD/AMU"
+		},
+		{
+			"id": 34,
+			"navn": "Øregård Gymnasium"
+		},
+		{
+			"id": 26,
+			"navn": "Ørestad Gymnasium"
+		},
+		{
+			"id": 123,
+			"navn": "AABC - Aarhus Business College Campus Sønderhøj"
+		},
+		{
+			"id": 124,
+			"navn": "AABC - Aarhus Business College Skåde/Odder"
+		},
+		{
+			"id": 121,
+			"navn": "AABC - Aarhus Handelsgymnasium Vejlby Centervej"
+		},
+		{
+			"id": 122,
+			"navn": "AABC - Aarhus Handelsgymnasium Viemosevej"
+		},
+		{
+			"id": 166,
+			"navn": "Aabenraa Statsskole"
+		},
+		{
+			"id": 551,
+			"navn": "Aalborg Handelsskole - Saxogade"
+		},
+		{
+			"id": 552,
+			"navn": "Aalborg Handelsskole - Turøgade"
+		},
+		{
+			"id": 289,
+			"navn": "Aalborg Katedralskole"
+		},
+		{
+			"id": 524,
+			"navn": "Aalborg Tekniske Gymnasium"
+		},
+		{
+			"id": 290,
+			"navn": "Aalborghus Gymnasium"
+		},
+		{
+			"id": 311,
+			"navn": "Århus Akademi"
+		},
+		{
+			"id": 242,
+			"navn": "AARHUS GYMNASIUM"
+		},
+		{
+			"id": 251,
+			"navn": "Aarhus Katedralskole"
+		},
+		{
+			"id": 627,
+			"navn": "Aarhus Private Gymnasium"
+		}
+	]
+}

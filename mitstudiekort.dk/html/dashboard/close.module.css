@@ -1,0 +1,38 @@
+.close {
+    position: absolute;
+    left: 6px;
+    top: 6px;
+    opacity: 0.5;
+  }
+  .close-container {
+    background-color: white;
+    position: absolute;
+    right: 32px;
+    top: 32px;
+    width: 44px;
+    height: 44px;
+    opacity: 0.5;
+    border-radius: 50%;
+    z-index: 9999;
+  }
+  .close-container:hover {
+    opacity: 1;
+  }
+  .close-container:hover .close {
+    opacity: 1;
+  }
+  .close:before, .close:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: #333;
+  }
+  .close:before {
+    transform: rotate(45deg);
+  }
+  .close:after {
+    transform: rotate(-45deg);
+  }
+  

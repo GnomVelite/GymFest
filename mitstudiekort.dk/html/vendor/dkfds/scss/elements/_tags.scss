@@ -1,0 +1,65 @@
+// Tags
+.tag{
+  appearance: none;
+  display: inline-block;
+  width: auto;
+  padding:0;
+  padding-left: map-get($spacers, 3);
+  padding-right:map-get($spacers, 3);
+  margin-right:map-get($spacers, 3);
+  margin-bottom:map-get($spacers, 3);
+  border-radius: $button-border-radius;
+  border: none;
+  font-size: $base-font-size;
+  font-weight: $font-weight-medium;
+  color: $tag-color;
+  background-color: $tag-bg;
+  @include font-smoothing;
+  line-height: $body-text-line-height;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+
+  &.tag-icon {
+    padding:0;
+    padding-left:map-get($spacers, 3);
+  }
+
+  & + .tag {
+    margin-bottom: map-get($spacers, 3);
+  }
+
+  &:hover,
+  &.tag-hover {
+    background-color: $tag-hover-bg;
+  }
+
+  &:active,
+  &.tag-active {
+    background-color: $tag-active-bg;
+  }
+
+  &.focus,
+  &:focus {
+    background-color: $tag-focus-bg;
+  }
+
+  &.focus,
+  &:focus {
+    border-color: $color-focus;
+    outline-color: $color-focus;
+    position: relative;
+  }
+
+  .icon-svg {
+    float: right;
+    margin: 0px 0px 0px 5px;
+    fill: white;
+  }
+}
+
+.button-row {
+  display: flex;
+  margin: 2rem 0 1rem;
+}
